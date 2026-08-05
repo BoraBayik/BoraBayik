@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00599C&height=180&section=header&text=Hi,%20I%27m%20Bora%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Bora"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00599C&height=180&section=header&text=Hi,%20I%27m%20Bora%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Bora"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;C%2FC%2B%2B+%C2%B7+Python;STM32+%C2%B7+ESP32;Edge+AI+%26+VLSI+Enthusiast" alt="Typing animation"/>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;C%2FC%2B%2B+%C2%B7+Python;STM32+%C2%B7+ESP32;Edge+AI+%26+VLSI+Enthusiast" alt="Typing animation"/></a>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@ I'm a Computer Engineering student with a strong interest in **embedded systems*
 ### Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" alt="C, C++, Python, Git, Linux"/>
-  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" alt="C, C++, Python, Git, Linux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/></a>
 </p>
 
 ### Featured projects
@@ -74,5 +74,5 @@ I'm a Computer Engineering student with a strong interest in **embedded systems*
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0A66C2&height=100&section=footer" alt="footer"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0A66C2&height=100&section=footer" alt="footer"/></a>
 </p>
