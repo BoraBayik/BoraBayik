@@ -39,6 +39,7 @@ I'm a Computer Engineering student with a strong interest in **embedded systems*
 | [**KTU_Sarge_GOKCEN**](https://github.com/BoraBayik/KTU_Sarge_GOKCEN) | Avionics software for KTU Sarge Rocket Team's sounding rocket — real-time flight data acquisition and control. |
 | [**KampusKarne**](https://github.com/ktu-software-engineering/kampus) | Anonymous course & professor rating platform for Turkish university students, inspired by RateMyProfessor — built with Next.js, TypeScript, and Supabase as part of a university software team. |
 | [**grokkingAlgorithms**](https://github.com/BoraBayik/grokkingAlgorithms) | Algorithm and data structure implementations from the book *Grokking Algorithms*. |
+| [**lv-grid-leak-simulator**](https://github.com/BoraBayik/lv-grid-leak-simulator) | Physics-based synthetic low-voltage grid simulator that generates labeled data (leakage, overload, demand surge, phase imbalance) for ML-based electrical fault detection and localization, plus a cross-platform desktop viewer. |
 
 ### GitHub stats
 
